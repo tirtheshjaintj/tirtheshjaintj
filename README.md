@@ -10,7 +10,7 @@ My learning areas include Web Development | Android Development | Javascript | N
 
 
 <p align="left">
-    <a href="https://github.com/saurav0896">
+    <a href="https://github.com/tirtheshjaintj">
         <img src="https://komarev.com/ghpvc/?username=tirtheshjaintj&label=Profile%20views&color=0e75b6&style=flat" alt="tirtheshjaintj" />
     </a>
     <a href="https://github.com/tirtheshjaintj?tab=followers">
@@ -42,15 +42,14 @@ My learning areas include Web Development | Android Development | Javascript | N
 <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </div>
 
-<h3 align="left">Languages :</h3>
-<div align="left">
+<h3 align="center">Languages :</h3>
+<div align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div>
 
-<h3 align="left">Databases :</h3>
-<div align="left">
+<h3 align="center">Databases :</h3>
+<div align="center">
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
