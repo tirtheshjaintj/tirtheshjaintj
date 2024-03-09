@@ -6,7 +6,7 @@ My learning areas include Web Development | Android Development | Javascript | N
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Happy to help if anything is related to web development
 - 📫 How to reach me: tirtheshjaintj@gmail.com
-- 👨‍💻 Check out my Website : **<a href="https://exudative-capacitie.000webhostapp.com/" target="_blank">Tirthesh Jain Portfolio</a>**
+- 👨‍💻 Check out my Website : **<a href="https://tirtheshjain.netlify.app/" target="_blank">Tirthesh Jain Portfolio</a>**
 
 
 <p align="left">
