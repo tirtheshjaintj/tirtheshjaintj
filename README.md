@@ -6,6 +6,8 @@ My learning areas include Web Development | Android Development | Javascript | N
 - 💬 Happy to help if anything is related to web development
 - 📫 How to reach me: tirtheshjaintj@gmail.com
 - 👨‍💻 Check out my Website : **<a href="https://tirtheshjain.netlify.app/" target="_blank">Tirthesh Jain Portfolio</a>**
+  <h3 align="center"> <img src="https://i.pinimg.com/originals/59/87/1c/59871c7fb4ca4d906e9ef1f4566cd378.gif" /> </h3>
+
 <p align="left">
     <a href="https://github.com/tirtheshjaintj">
         <img src="https://komarev.com/ghpvc/?username=tirtheshjaintj&label=Profile%20views&color=0e75b6&style=flat" alt="tirtheshjaintj" />
@@ -19,7 +21,6 @@ My learning areas include Web Development | Android Development | Javascript | N
   <a href="https://www.linkedin.com/in/tirtheshjaintj"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:tirtheshjaintj@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
-<h3 align="center"> <img src="https://i.pinimg.com/originals/59/87/1c/59871c7fb4ca4d906e9ef1f4566cd378.gif" /> </h3>
 <h3 align="left">Web Tech Stack :</h3>
 <div align="left">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
