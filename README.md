@@ -23,18 +23,7 @@ My learning areas include Web Development | Android Development | Javascript | N
 </div>
 <h3 align="left">Web Tech Stack :</h3>
 <div align="left">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-<img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/> 
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<br>
-<img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-<img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-<img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img alt="HTML5" src="https://camo.githubusercontent.com/c8f376119eb72e4557252c45ec162434fd844396a4787dae4d42d267a07b4a3b/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d72656163742c766974652c6d6f6e676f64622c657870726573732c6e6f64656a732c7461696c77696e642c6a732c68746d6c2c6373732c6370702c632c6769742c76657263656c2c76697375616c73747564696f2c7673636f64652c7265706c69742c72656475782c706f73746d616e2c706f7765727368656c6c2c6d7973716c2c636f646570656e2c"/>
 </div>
 
 <h3 align="center">Languages :</h3>
