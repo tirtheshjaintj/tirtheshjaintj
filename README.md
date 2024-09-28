@@ -40,7 +40,6 @@ My learning areas include Web Development | Android Development | Javascript | N
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=tirtheshjaintj&show_icons=true&theme=dark&locale=en" alt="tirtheshjaintj" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tirtheshjaintj&show_icons=true&theme=dark&locale=en&layout=compact" alt="tirtheshjaintj" /></td>
   </tr>
 </table>
